@@ -1,3 +1,5 @@
+## Information Retrieval - Approach
+
 - What do you think about your solution and how do you think it can be scaled up?
 Have a document classifier depending on what information we have available 
 Better chunking strategies 
