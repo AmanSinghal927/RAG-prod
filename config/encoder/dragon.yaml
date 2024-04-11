@@ -1,0 +1,3 @@
+_target_: "src.encoder.dragon.Encoder"
+context_model_name : "facebook/dragon-plus-context-encoder"
+query_model_name : "facebook/dragon-plus-query-encoder"

@@ -1,0 +1,9 @@
+ground_truth_path: C:/Users/J C SINGLA/Downloads/External - take_home_challenge_(withJSONs)/take_home_challenge_(withJSONs)/document_questions.xlsx
+pdf_path: C:/Users/J C SINGLA/Downloads/External - take_home_challenge_(withJSONs)/take_home_challenge_(withJSONs)/data/pdfs/
+data_name: sherpa_paras_and_tables
+data_path: C:/Users/J C SINGLA/Downloads/External - take_home_challenge_(withJSONs)/take_home_challenge_(withJSONs)/data/processed
+encoder:
+  _target_: src.encoder.st.Encoder
+  context_model_name: bert-base-nli-mean-tokens
+  batch_size: 128
+  device: None

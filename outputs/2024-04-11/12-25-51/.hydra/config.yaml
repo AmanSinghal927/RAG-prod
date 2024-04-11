@@ -1,0 +1,8 @@
+ground_truth_path: C:/Users/J C SINGLA/Downloads/External - take_home_challenge_(withJSONs)/take_home_challenge_(withJSONs)/document_questions.xlsx
+pdf_path: C:/Users/J C SINGLA/Downloads/External - take_home_challenge_(withJSONs)/take_home_challenge_(withJSONs)/data/pdfs/
+data_name: sherpa_paras_and_tables
+data_path: C:/Users/J C SINGLA/Downloads/External - take_home_challenge_(withJSONs)/take_home_challenge_(withJSONs)/data/processed
+clean: false
+idk: true
+encoder:
+  _target_: src.encoder.tf_idf.Encoder

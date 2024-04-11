@@ -1,0 +1,2 @@
+[2024-04-11 11:11:51,645][sentence_transformers.SentenceTransformer][INFO] - Load pretrained SentenceTransformer: bert-base-nli-mean-tokens
+[2024-04-11 11:11:55,634][sentence_transformers.SentenceTransformer][INFO] - Use pytorch device_name: cpu

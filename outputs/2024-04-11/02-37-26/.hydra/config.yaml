@@ -1,0 +1,5 @@
+ground_truth_path: C:/Users/J C SINGLA/Downloads/External - take_home_challenge_(withJSONs)/take_home_challenge_(withJSONs)/document_questions.xlsx
+pdf_path: C:/Users/J C SINGLA/Downloads/External - take_home_challenge_(withJSONs)/take_home_challenge_(withJSONs)/data/pdfs/
+encoder:
+  name: st
+  _target_: encoder.st.Encoder

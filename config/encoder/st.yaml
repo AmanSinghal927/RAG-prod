@@ -1,0 +1,4 @@
+_target_: "src.encoder.st.Encoder"
+context_model_name: "bert-base-nli-mean-tokens" # arguments to pass to the calling function
+batch_size: 128
+device: None
